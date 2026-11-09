@@ -6,6 +6,11 @@ Application web pour entraîneurs (handball et autres sports) : **couper des sé
 - **Vos vidéos restent sur votre appareil** : elles ne sont jamais envoyées sur Internet. Les séquences et dessins sont enregistrés dans le navigateur.
 - **Fonctionne hors connexion** une fois la page ouverte une première fois ; installable comme une application (menu ⋮ de Chrome → « Installer Arc9 Lite »).
 
+## Deux façons de l'ouvrir
+
+- **En ligne** : https://mami-houssem.github.io/arc9-lite/ (une fois GitHub Pages activé : Settings → Pages → branche `gh-pages`).
+- **Sans rien activer** : le fichier unique `arc9-lite.html` (fabriqué par `npm run build:single`). On le télécharge, on double-clique : il s'ouvre dans Chrome et fonctionne sans connexion.
+
 ## Utilisation
 
 1. **Ouvrir une vidéo** (MP4, MOV, WebM) depuis l'appareil.
